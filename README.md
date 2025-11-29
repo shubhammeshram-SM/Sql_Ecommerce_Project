@@ -29,6 +29,3 @@ Categories supports nested categories via parent_category_id.
 
 Reviews.rating has a CHECK constraint to enforce 1–5 stars.
 
-🛠️ Sample Data
-sql
--- 5 users
